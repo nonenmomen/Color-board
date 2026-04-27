@@ -33,7 +33,7 @@ fingerboard/
 
 ```bash
 # 1. Клонируй репозиторий
-git clone https://github.com/USERNAME/REPO_NAME.git
+git clone https://github.com/nonenmomen/Color-board.git
 cd REPO_NAME
 
 # 2. Создай и активируй виртуальное окружение
